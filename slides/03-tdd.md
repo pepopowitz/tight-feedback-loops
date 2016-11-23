@@ -1,6 +1,37 @@
 ## Test Driven Development
 ### What is it?
-### What are the benefits?
-* Tighter feedback loop!
-* Collaboration
+* Definition: For every change to the system, you must introduce a failing Test
+* Simplified: Red/Green/Refactor
+---
+
+
+### How does it benefit the developer?
+* Tightens the feedback loop
+* Reduces the amount of mental clutter
+
+---
+
+I don't have to re-launch the app every time I make a change, and step through 7 steps to get to the issue I'm fixing.
+
+
+
+### How does it benefit the team?
+* Development + Testing + Peer Review
+* Documentation of the system
+* Find bugs before you've written them
+
+---
+
+It is a great opportunity for collaboration amongst team members  
+
+### How does it benefit the product?
+* Puts you in the customer's shoes 
+* Leads you toward better code
+---
+
+Any time you make a change, you are looking at it from the perspective of the user of your system.
+
+You can still write bad code with TDD, but it leads you toward writing better code (you make it harder on yourself by not writing clean code)
+
+
 ### Demo
