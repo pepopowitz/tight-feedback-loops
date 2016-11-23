@@ -1,8 +1,18 @@
 ## DevOps
 ### What is it?
-### What are the benefits?
-* Tighter feedback loop!
-### Demo
-CI, unit tests, auto deploys
+* The three ways
+** Flow <--- we skipped this, now we're gonna talk about it a bit more
+** Feedback <--- you are here
+** Continuous Improvement <--- this is what you're gonna bring home after today
 
-Configure build pipeline ahead of time so we can see things live as we change them
+### What are the benefits?
+* Tighter feedback loops, everywhere
+** QA <--> Coders
+** IT <--> Development
+** Business <--> Development
+** Company <--> Customers
+
+### Demo
+* Running CI
+* Unit test results
+* Automated deployments for further testing
