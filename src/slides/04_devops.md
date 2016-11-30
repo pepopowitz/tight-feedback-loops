@@ -1,5 +1,6 @@
 ---
-
+class: fit-image
+background-image: url(http://lurkertech.com/buzzword-bingo/dilbert-buzzword.jpg)
 # DevOps
 
 ---
@@ -16,7 +17,7 @@ The Three Ways, by Gene Kim
 Draw picture, basically this: http://itrevolution.com/the-three-ways-principles-underpinning-devops/
 
 ---
-class: reaction
+class: full-screen-image
 background-image: url(http://4.bp.blogspot.com/-JyvD7Qgv4ZA/Ul7AXzTjBCI/AAAAAAAAT5c/2wqIJj4C3Jc/s1600/kirk+spock+scotty.png)
 
 ## So what is it _really_?
@@ -30,7 +31,9 @@ Better business decisions
 
 ## What does this do for us?
 No more all-nighter deployments
+
 Ability to run experiments and make small, rapid improvements
+
 Faster feedback loops
 
 ---
@@ -50,15 +53,15 @@ How is this different from before? We've taken away the shortcuts, and added *cu
 
 ---
 
-## Every software feature is an experiment until you've obtained feedback on it in production
+# Every software feature is an experiment until you've obtained feedback on it in production
 
 ???
 
 Example: Intuit running turbotax experiments in production during tax season
 We've made the loop much longer, but we still want it to be fast. Enter automation....
 
---- 
-
-## Demo
+---
+# Demo
 
 ???
+Build in TFS, deploy with Octopus

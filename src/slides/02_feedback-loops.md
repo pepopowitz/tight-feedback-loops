@@ -24,7 +24,7 @@ The thermostat checks the room temperature.
 If it is below the desired temperature, it tells the furnace/boiler to... 
 
 ---
-class: reaction
+class: full-screen-image
 background-image: url(images/warm-it-up-kris.jpg)
 ---
 
@@ -33,7 +33,7 @@ The thermostat checks the temperature again, and the loop continues
 Until the temperature is at 67 degrees, when it tells the furnace/boiler to stop
 
 ---
-class: reaction
+class: full-screen-image
 background-image: url(images/warm-it-up-kris.jpg)
 
 ??? 
