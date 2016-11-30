@@ -1,6 +1,6 @@
 ---
 class: fit-image
-background-image: url(http://lurkertech.com/buzzword-bingo/dilbert-buzzword.jpg)
+background-image: url(images/dilbert.jpg)
 # DevOps
 
 ---
@@ -18,7 +18,7 @@ Draw picture, basically this: http://itrevolution.com/the-three-ways-principles-
 
 ---
 class: full-screen-image
-background-image: url(http://4.bp.blogspot.com/-JyvD7Qgv4ZA/Ul7AXzTjBCI/AAAAAAAAT5c/2wqIJj4C3Jc/s1600/kirk+spock+scotty.png)
+background-image: url(images/startrek.png)
 
 ## So what is it _really_?
 
