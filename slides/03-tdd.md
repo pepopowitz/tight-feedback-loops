@@ -1,7 +1,9 @@
 ### The Developer-QE feedback loop
 
-codez ----> build ---> deploy ---|
-<---- changes <---- test <-------|
+```
+^code ----> build ---> deploy ---v
+^<---- changes <---- test <-------v
+```
 
 ???
 
@@ -13,10 +15,12 @@ What if we told you there was a shortcut on this loop?
 
 ### The Developer-QE feedback loop
 
+```
 codez ----> build ---> deploy --v
 ^          v                    v
 ^          v                    v
 <--- changes <---- test <-------v
+```
 
 ???
 
@@ -27,6 +31,8 @@ without having to go through the right half of this loop?
 ...
 
 There is!
+
+It's called collaboration.
 
 And we're recommending Test Driven Development to help make it happen.
 

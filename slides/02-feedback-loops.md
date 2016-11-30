@@ -39,8 +39,10 @@ But not all feedback loops are equal.
 
 ### The bike tuning feedback loop
 
+```
 ride ----> 
 <-----tune
+```
 
 ???
 
@@ -60,8 +62,10 @@ That's a derailleur.
 
 ### The bike tuning feedback loop
 
+```
 ride ----> 
 <-----tune
+```
 
 ???
 
@@ -75,8 +79,12 @@ This is what that feedback loop likes like.
 
 #### Bad
 
-ride ----> 
-<-----tune (at the bike shop)
+```
+----- ride ----------->v 
+^                      v
+^                      v
+^<-----tune------------- (at the bike shop)
+```
 
 ???
 
@@ -92,8 +100,11 @@ This is a loose, slow, yucky feedback loop.
 
 #### Better
 
-ride ----> 
-<-----tune (at my neighbor's house)
+```
+----- ride ----->v 
+^                v
+^<-----tune------- (at my neighbor's house)
+```
 
 ???
 
@@ -109,8 +120,10 @@ But I still have to walk to my neighbors house each cycle through the loop.
 
 #### Best!
 
+```
 ride ----> 
 <-----tune (in my garage)
+```
 
 ???
 
@@ -138,9 +151,10 @@ In my bike example, it meant eliminating trips to the bike shop or neighbors hou
 
 ### The Developer-QE feedback loop
 
-codez ----> build ---> deploy ---|
-<---- changes <---- test <-------|
-
+```
+^code ----> build ---> deploy ---v
+^<---- changes <---- test <-------v
+```
 
 ---
 
