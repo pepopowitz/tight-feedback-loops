@@ -180,5 +180,3 @@ There are a lot of stops along that loop.
 A lot of opportunities for that loop to get bigger, and slower.
 
 Tyler and I want to help you make that loop smaller, instead.
-
----

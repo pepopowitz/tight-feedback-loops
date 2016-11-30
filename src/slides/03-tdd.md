@@ -79,3 +79,15 @@ You can still write bad code with TDD, but it leads you toward writing better co
 ---
 
 ### Demo
+
+???
+
+Alright we're gonna build a calculator!!! 
+Pull up VS, take turns driving keyboard, have test and code alongside each other
+
+Test cases/implementation direction
+Division has weird edge cases
+Tester writes the test name at the beginning
+Later on QE writes the test themselves
+Run with NCrunch or VS2017, show Code Coverage for 'slower' feedback
+Go for 3-5 iterations, have QE suggest edges, have dev suggest edges
