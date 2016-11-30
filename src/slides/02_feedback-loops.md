@@ -21,15 +21,26 @@ Thermostat
 
 The thermostat checks the room temperature.
 
-If it is below the desired temperature, it tells the furnace/boiler to warm it up 
+If it is below the desired temperature, it tells the furnace/boiler to... 
 
-(image of Kris Kross)
+---
+class: reaction
+background-image: url(images/warm-it-up-kris.jpg)
+---
 
 The thermostat checks the temperature again, and the loop continues
 
 Until the temperature is at 67 degrees, when it tells the furnace/boiler to stop
 
-(image of vanilla ice)
+---
+class: reaction
+background-image: url(images/warm-it-up-kris.jpg)
+
+??? 
+
+except vanilla ice (stop)
+
+---
 
 ...
 
@@ -139,7 +150,7 @@ And now, I get to see the results of each tuning almost instantly!
 
 A: By tightening the loop.
 
----
+???
 
 The tighter the loop, the quicker the feedback/your ability to react
 
@@ -149,14 +160,16 @@ or making each stop along the way take less time.
 
 In my bike example, it meant eliminating trips to the bike shop or neighbors house.
 
+---
+
 ### The Developer-QE feedback loop
 
 ```
 ^code ----> build ---> deploy ---v
-^<---- changes <---- test <-------v
+^<---- changes <---- test <------v
 ```
 
----
+???
 
 So here's a feedback loop we experience.
 
@@ -167,3 +180,5 @@ There are a lot of stops along that loop.
 A lot of opportunities for that loop to get bigger, and slower.
 
 Tyler and I want to help you make that loop smaller, instead.
+
+---
