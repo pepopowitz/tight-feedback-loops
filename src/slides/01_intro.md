@@ -52,6 +52,24 @@ class: middle
 ### Crushez Codez 4 Long Time 
 ]
 
+
+---
+class: middle
+
+.col.col-6[
+![Me](images/tyler.png)
+]
+
+.col.col-4[
+# Tyler Evert
+
+## Travels
+
+## Plays Video Games
+
+## Does the DevOps 
+]
+
 ---
 
 class: title

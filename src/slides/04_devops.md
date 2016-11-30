@@ -30,11 +30,20 @@ Better business decisions
 ---
 
 ## What does this do for us?
-No more all-nighter deployments
+Stop having weekend/night-time deployments
 
-Ability to run experiments and make small, rapid improvements
+Run experiments and make small, rapid improvements
 
 Faster feedback loops
+
+---
+
+# Every software feature is an experiment until you've obtained feedback on it in production
+
+???
+
+Example: Intuit running turbotax experiments in production during tax season
+We've made the loop much longer, but we still want it to be fast. Enter automation....
 
 ---
 
@@ -53,14 +62,6 @@ How is this different from before? We've taken away the shortcuts, and added *cu
 
 ---
 
-# Every software feature is an experiment until you've obtained feedback on it in production
-
-???
-
-Example: Intuit running turbotax experiments in production during tax season
-We've made the loop much longer, but we still want it to be fast. Enter automation....
-
----
 # Demo
 
 ???
