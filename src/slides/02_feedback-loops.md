@@ -1,3 +1,10 @@
+---
+
+class: new-section
+
+# Feedback Loops
+
+---
 
 ## Feedback Loops
 
@@ -24,8 +31,10 @@ The thermostat checks the room temperature.
 If it is below the desired temperature, it tells the furnace/boiler to... 
 
 ---
-class: full-screen-image
-background-image: url(images/warm-it-up-kris.jpg)
+class: full-screen-image, meme
+background-image: url(images/kriskross.jpg)
+
+# Warm It Up Kris
 ---
 
 The thermostat checks the temperature again, and the loop continues
@@ -33,12 +42,10 @@ The thermostat checks the temperature again, and the loop continues
 Until the temperature is at 67 degrees, when it tells the furnace/boiler to stop
 
 ---
-class: full-screen-image
-background-image: url(images/warm-it-up-kris.jpg)
+class: full-screen-image, meme
+background-image: url(images/vanilla-ice.jpg)
 
-??? 
-
-except vanilla ice (stop)
+# Stop! 
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 
-## Putting a bow on it
+class: new-section
+
+# How Do I Get Started?
 
 ???
 

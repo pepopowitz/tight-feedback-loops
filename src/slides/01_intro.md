@@ -1,9 +1,12 @@
 class: title
 
-# Tight Feedback Loops With TDD and DevOps
+# Tight Feedback Loops With 
+# TDD and DevOps
 
-.col.col-3[
+
+.col.col-1[
 ]
+
 
 .col.col-4.about[
 ## Steven Hicks
@@ -12,46 +15,32 @@ class: title
 ### <i class="el el-envelope"></i>  steven.hicks@centare.com
 ]
 
----
-class: middle
-
-.col.col-6[
-![Me](images/steve-hicks.png)
+.col.col-1[
 ]
 
-
-.col.col-4[
-# Steven Hicks
-]
-
----
-class: middle
-
-.col.col-6[
-![Me](images/steve-hicks.png)
-]
-
-.col.col-4[
-# Steven Hicks
-
-### Has wings instead of arms
+.col.col-4.about[
+## Tyler Evert
+### <i class="el el-twitter"></i>  @?
+### <i class="el el-globe-alt"></i>  tevert.github.io?
+### <i class="el el-envelope"></i>  tyler.evert@centare.com
 ]
 
 ---
 class: middle
 
-.col.col-6[
-![Me](images/steve-hicks.png)
-]
-
 .col.col-4[
 # Steven Hicks
 
-### Has wings instead of arms
+## Rides Bikes
 
-### Crushez Codez 4 Long Time 
+## Climbs Rocks
+
+## Crushez Codez 
 ]
 
+.col.col-6[
+![Me](images/steve.png)
+]
 
 ---
 class: middle
@@ -72,12 +61,4 @@ class: middle
 
 ---
 
-class: title
-
-## Agenda
-### Feedback Loops
-### Test Driven Development
-### DevOps
-### Putting it all together
-
----
+# we need an intro here.
