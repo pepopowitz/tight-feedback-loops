@@ -20,8 +20,8 @@ class: title
 
 .col.col-4.about[
 ## Tyler Evert
-### <i class="el el-twitter"></i>  @?
-### <i class="el el-globe-alt"></i>  tevert.github.io?
+### <i class="el el-twitter"></i>  @TylerDoesDevOps
+### <i class="el el-globe-alt"></i>  thefoxgang.com
 ### <i class="el el-envelope"></i>  tyler.evert@centare.com
 ]
 
