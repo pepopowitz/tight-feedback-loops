@@ -1,5 +1,5 @@
 ---
-class: fit-image
+class: fit-image center
 background-image: url(images/dilbert.jpg)
 # DevOps
 
@@ -63,6 +63,13 @@ How is this different from before? We've taken away the shortcuts, and added *cu
 ---
 
 # Demo
+
+<a href="https://centare.visualstudio.com/QACampCalculator/QACampCalculator%20Team/_build" target="_blank">Build</a>
+
+<a href="https://centare.visualstudio.com/QACampCalculator/QACampCalculator%20Team/_apps/hub/ms.vss-releaseManagement-web.hub-explorer" target="_blank">Deploy</a>
+
+<a href="https://qacamp2016calculator.blob.core.windows.net/releases/drop/demo/Calculator/bin/Release/Calculator.exe" target="_blank">Deliver</a>
+
 
 ???
 Build in TFS, deploy with Octopus
