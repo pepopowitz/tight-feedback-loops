@@ -2,7 +2,7 @@
 
 namespace Calculator
 {
-    internal class CalculatorService : ICalculatorService
+    public class CalculatorService : ICalculatorService
     {
         public double Add(double firstOperand, double secondOperand)
         {

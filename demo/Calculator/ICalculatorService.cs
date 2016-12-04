@@ -1,6 +1,6 @@
 ﻿namespace Calculator
 {
-    internal interface ICalculatorService
+    public interface ICalculatorService
     {
         double Add(double firstOperand, double secondOperand);
         double Subtract(double firstOperand, double secondOperand);
