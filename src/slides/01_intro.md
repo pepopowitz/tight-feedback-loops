@@ -59,6 +59,3 @@ class: middle
 ## Does the DevOps 
 ]
 
----
-
-# we need an intro here.

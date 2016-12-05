@@ -1,6 +1,6 @@
 ---
 
-### The Developer-QE feedback loop
+# The Developer-QE feedback loop
 
 ```
 ^code ----> build ---> deploy ---v
@@ -15,7 +15,7 @@ What if we told you there was a shortcut on this loop?
 
 ---
 
-### The Developer-QE feedback loop
+# The Developer-QE feedback loop
 
 ```
 codez ----> build ---> deploy --v
@@ -40,14 +40,15 @@ And we're recommending Test Driven Development to help make it happen.
 
 ---
 
-## Test Driven Development
-### What is it?
-* Definition: For every change to the system, you must introduce a failing Test
+# Test Driven Development
+## What is it?
+* Definition: For every change to the system, you must first introduce a failing Test
 * Simplified: Red/Green/Refactor
 ---
 
+# Test Driven Development
 
-### How does it benefit the developer?
+## How does it benefit the developer?
 * Tightens the feedback loop
 * Reduces the amount of mental clutter
 
@@ -57,7 +58,9 @@ I don't have to re-launch the app every time I make a change, and step through 7
 
 ---
 
-### How does it benefit the team?
+# Test Driven Development
+
+## How does it benefit the team?
 * Development + Testing + Peer Review
 * Documentation of the system
 * Find bugs before you've written them
@@ -68,7 +71,8 @@ It is a great opportunity for collaboration amongst team members
 
 ---
 
-### How does it benefit the product?
+# Test Driven Development
+## How does it benefit the product?
 * Puts you in the customer's shoes 
 * Leads you toward better code
 
@@ -80,7 +84,8 @@ You can still write bad code with TDD, but it leads you toward writing better co
 
 ---
 
-### Demo
+# Test Driven Development
+## Demo
 
 ???
 

@@ -5,7 +5,7 @@ background-image: url(images/dilbert.jpg)
 
 ---
 
-## What is it?
+# What is it?
 
 - Flow                   <--- we skipped this, now we're gonna talk about it a bit more
 - Feedback               <--- you are here
@@ -20,7 +20,7 @@ Draw picture, basically this: http://itrevolution.com/the-three-ways-principles-
 class: full-screen-image
 background-image: url(images/startrek.png)
 
-## So what is it _really_?
+# So what is it _really_?
 
 ???
 Collaboration
@@ -29,7 +29,7 @@ Better business decisions
 
 ---
 
-## What does this do for us?
+# What does this do for us?
 Stop having weekend/night-time deployments
 
 Run experiments and make small, rapid improvements
@@ -37,6 +37,7 @@ Run experiments and make small, rapid improvements
 Faster feedback loops
 
 ---
+class: title
 
 # Every software feature is an experiment until you've obtained feedback on it in production
 
@@ -47,7 +48,7 @@ We've made the loop much longer, but we still want it to be fast. Enter automati
 
 ---
 
-## The DevOps feedback loop
+# The DevOps feedback loop
 
 ```
 codez ----> build ---> deploy ---> test --v
