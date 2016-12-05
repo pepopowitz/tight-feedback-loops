@@ -1,23 +1,15 @@
 {
-    "name": "code-is-communication",
+    "name": "tight-feedback-loops",
     "version": "0.1.0",
-    "description": "Slides for my 'Code Is Communication' talk",
-    "homepage": "https://pepopowitz.github.io",
+    "description": "Slides for our 'Tight Feedback Loops With TDD and DevOps' talk",
+    "homepage": "https://github.com/pepopowitz/tight-feedback-loops",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/pepopowitz/none-yet.git"
+        "url": "git+https://github.com/pepopowitz/tight-feedback-loops"
     },
-    "keywords": [
-        "code",
-        "clean",
-        "communication",
-        "presentation"
-    ],
+    "keywords": [],
     "author": {
-        "name": "Steven Hicks",
-        "email": "steven.j.hicks@gmail.com",
-        "web": "http://pepopowitz.github.io",
-        "twitter": "pepopowitz"
+        "name": "Steven Hicks & Tyler Evert"
     },
     "license": "MIT",
     "scripts": {
