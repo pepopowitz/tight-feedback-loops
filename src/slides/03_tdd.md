@@ -30,61 +30,128 @@ What if we told you there was a way to get changes to the developer,
 
 without having to go through the right half of this loop?
 
+TODO - animate right half to fade away
+
 ...
 
-There is!
-
-It's called collaboration.
+What if you could collaborate with the developer while they are coding?
 
 And we're recommending Test Driven Development to help make it happen.
 
 ---
+class: title
 
 # Test Driven Development
-## What is it?
-* Definition: For every change to the system, you must first introduce a failing Test
-* Simplified: Red/Green/Refactor
+
 ---
+class: title
 
-# Test Driven Development
+# For every change to the system, you must first introduce a failing test
 
-## How does it benefit the developer?
-* Tightens the feedback loop
-* Reduces the amount of mental clutter
+---
+class: title
+
+# Red/Green/Refactor
+
+---
+class: title
+
+## How does TDD benefit the developer?
+
+---
+class: title
+
+# Promotes simplicity
 
 ???
 
-I don't have to re-launch the app every time I make a change, and step through 7 steps to get to the issue I'm fixing.
+Developers will be happy that their code is simpler 
 
 ---
+class: title
 
-# Test Driven Development
+# Tightens the developer's feedback loop
 
-## How does it benefit the team?
-* Development + Testing + Peer Review
-* Documentation of the system
-* Find bugs before you've written them
+???
+
+I don't have to re-launch the app every time I make a change, 
+
+and step through 7 steps to get to the issue I'm fixing.
+
+---
+class: title
+
+# Reduces the amount of mental clutter
+
+???
+
+Grocery list
+
+---
+class: title
+
+## How does TDD benefit the team?
+
+---
+class: title
+
+# Development + Testing + Peer Review
 
 ???
 
 It is a great opportunity for collaboration amongst team members  
 
 ---
+class: title
 
-# Test Driven Development
-## How does it benefit the product?
-* Puts you in the customer's shoes 
-* Leads you toward better code
+# Documentation of the system
+
+???
+
+All of the test cases serve as documentation of the system
+
+---
+class: title
+
+# Find bugs before they've been written
+
+???
+
+Because you are thinking about edge cases 
+
+as you build it
+
+---
+class: title
+
+## How does TDD benefit the product?
+
+---
+class: title
+
+# Puts you in the customer's shoes 
 
 ???
 
 Any time you make a change, you are looking at it from the perspective of the user of your system.
 
-You can still write bad code with TDD, but it leads you toward writing better code (you make it harder on yourself by not writing clean code)
+---
+class: title
+
+# Promotes maintainability
+
+???
+
+You can still write bad code with TDD
+
+But it leads you toward writing better code 
+
+(you make it harder on yourself by not writing clean code)
+
+
 
 ---
-
-# Test Driven Development
+# Test Driven Development 
 ## Demo
 
 ???
