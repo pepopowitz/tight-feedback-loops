@@ -17,7 +17,7 @@ The Three Ways, by Gene Kim
 Draw picture, basically this: http://itrevolution.com/the-three-ways-principles-underpinning-devops/
 
 ---
-class: full-screen-image
+class: full-screen-image, left-align
 background-image: url(images/startrek.png)
 
 # So what is it _really_?
@@ -47,9 +47,11 @@ Example: Intuit running turbotax experiments in production during tax season
 We've made the loop much longer, but we still want it to be fast. Enter automation....
 
 ---
-background-image: url(images/loops/devops.png)
+class: loop
 
 # The DevOps feedback loop
+
+![DevOps Loop](images/loops/devops.png)
 
 ???
 

@@ -28,7 +28,7 @@ class: title
 ---
 class: middle
 
-.col.col-4[
+.col.col-4.left-align[
 # Steven Hicks
 
 ## Rides Bikes
@@ -49,7 +49,7 @@ class: middle
 ![Me](images/tyler.png)
 ]
 
-.col.col-4[
+.col.col-4.left-align[
 # Tyler Evert
 
 ## Travels

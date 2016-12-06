@@ -63,12 +63,12 @@ so the build server can actually do stuff
 ---
 class: title
 
-# Go grab a CI server and play around
+# Grab a CI server and play around
 
 ---
 class: title
 
-# Start the conversaton
+# Start the conversation
 
 ???
 
@@ -81,3 +81,30 @@ talk about the potential gains in investing someone's time
 
 ## TODO Links to free CI things
 
+---
+
+class: title
+
+# Thank you!
+
+
+.col.col-1[
+]
+
+
+.col.col-4.about[
+## Steven Hicks
+### <i class="el el-twitter"></i>  @pepopowitz
+### <i class="el el-globe-alt"></i>  pepopowitz.github.io
+### <i class="el el-envelope"></i>  steven.hicks@centare.com
+]
+
+.col.col-1[
+]
+
+.col.col-4.about[
+## Tyler Evert
+### <i class="el el-twitter"></i>  @TylerDoesDevOps
+### <i class="el el-globe-alt"></i>  thefoxgang.com
+### <i class="el el-envelope"></i>  tyler.evert@centare.com
+]

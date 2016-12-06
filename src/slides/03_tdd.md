@@ -1,7 +1,9 @@
 ---
-background-image: url(images/loops/dev-qa.png)
+class: loop
 
 # The Developer-QE feedback loop
+
+![Dev-QA Loop](images/loops/dev-qa.png)
 
 ???
 
@@ -10,11 +12,11 @@ Here's our first suggestion.
 What if we told you there was a shortcut on this loop?
 
 ---
-background-image: url(images/loops/tdd-shortcut.png)
+class: loop
 
 # The Developer-QE feedback loop
 
-TODO - animate most of loop to fade away
+![Dev-QA Loop (shortcut)](images/loops/tdd-shortcut.png)
 
 ???
 
