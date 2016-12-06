@@ -68,9 +68,11 @@ class: title
 ---
 class: title
 
-# Bring this to your boss/PM/PO
+# Start the conversaton
 
 ???
+
+Bring this to your boss/PM/PO
 
 talk about the potential gains in investing someone's time
 

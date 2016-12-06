@@ -1,11 +1,7 @@
 ---
+background-image: url(images/loops/dev-qa.png)
 
 # The Developer-QE feedback loop
-
-```
-^code ----> build ---> deploy ---v
-^<---- changes <---- test <-------v
-```
 
 ???
 
@@ -14,23 +10,17 @@ Here's our first suggestion.
 What if we told you there was a shortcut on this loop?
 
 ---
+background-image: url(images/loops/tdd-shortcut.png)
 
 # The Developer-QE feedback loop
 
-```
-codez ----> build ---> deploy --v
-^          v                    v
-^          v                    v
-<--- changes <---- test <-------v
-```
+TODO - animate most of loop to fade away
 
 ???
 
 What if we told you there was a way to get changes to the developer,
 
-without having to go through the right half of this loop?
-
-TODO - animate right half to fade away
+without having to go through half of this loop?
 
 ...
 

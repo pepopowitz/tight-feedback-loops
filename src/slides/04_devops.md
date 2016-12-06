@@ -47,15 +47,9 @@ Example: Intuit running turbotax experiments in production during tax season
 We've made the loop much longer, but we still want it to be fast. Enter automation....
 
 ---
+background-image: url(images/loops/devops.png)
 
 # The DevOps feedback loop
-
-```
-codez ----> build ---> deploy ---> test --v
-^                                         v
-^                                         v
-<--- changes <--- reviews <--- deliver <--v
-```
 
 ???
 

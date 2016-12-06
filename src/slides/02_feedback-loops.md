@@ -5,13 +5,9 @@ class: title
 # Feedback Loops
 
 ---
+background-image: url(images/loops/general.png)
 
 # What is a feedback loop?
-
-```
-----action---->
-<---effect----
-```
 
 ???
 Definition: blah blah blah you put an action in, see the effect, and keep doing that.
@@ -26,13 +22,9 @@ background-image: url(images/thermostat.jpg)
 The canonical example of a feedback loop is a thermostat.
 
 ---
+background-image: url(images/loops/thermostat.png)
 
 # The Thermostat
-
-```
-----adjust furnace ------------>
-<--- measure air temperature----
-```
 
 ???
 
@@ -46,13 +38,9 @@ background-image: url(images/kriskross.jpg)
 
 # Warm It Up Kris
 ---
+background-image: url(images/loops/thermostat.png)
 
 # The Thermostat
-
-```
-----adjust furnace ------------>
-<--- measure air temperature----
-```
 
 ???
 
@@ -67,13 +55,9 @@ background-image: url(images/vanilla-ice.jpg)
 # Stop! 
 
 ---
+background-image: url(images/loops/thermostat.png)
 
 # The Thermostat
-
-```
-----adjust furnace ------------>
-<--- measure air temperature----
-```
 
 ???
 
@@ -110,14 +94,9 @@ Maybe you don't recognize it by name, but you probably recognize it as the mecha
 that changes the gears on your bike when you click a button on the handlebars.
 
 ---
+background-image: url(images/loops/bike-general.png)
 
 # The bike tuning feedback loop
-
-
-```
----tune ----> 
-<-----ride---
-```
 
 ???
 
@@ -126,13 +105,9 @@ To tune the derailleurs on your bike, there is a feedback loop.
 Simplified, it looks like this. 
  
 ---
+background-image: url(images/loops/bike-really.png)
 
 # The bike tuning feedback loop
-
-```
----turn a screw 1/4 turn ----> 
-<-----ride 20 feet -----------
-```
 
 ???
 
@@ -141,15 +116,9 @@ A little less simplified, this is the loop.
 You turn a screw a quarter turn, and then you ride the bike 20 feet to see if everything is lined up.
  
 ---
+background-image: url(images/loops/bike-bad.png)
 
 # The bike tuning feedback loop
-
-```
------ tune ----------->v (at the bike shop)
-^                      v
-^                      v
-^<-----ride------------- 
-```
 
 ???
 
@@ -164,14 +133,9 @@ And if I get it back and find that it still doesn't shift well, I have to take i
 This is a loose, slow feedback loop.
 
 ---
+background-image: url(images/loops/bike-better.png)
 
 # The bike tuning feedback loop
-
-```
------ tune ----->v (at my neighbor's house)
-^                v
-^<-----ride------- 
-```
 
 ???
 
@@ -186,13 +150,9 @@ Here, I see the results of each tuning in a much shorter time.
 But I still have to take my bike over to my neighbors house each cycle through the loop. 
 
 ---
+background-image: url(images/loops/bike-best.png)
 
 # The bike tuning feedback loop
-
-```
----tune ----> (in my driveway)
-<-----ride---
-```
 
 ???
 
@@ -220,16 +180,11 @@ The tighter the loop, the quicker the feedback/your ability to react
 There are a couple of ways to do this.
 
 ---
+background-image: url(images/loops/bike-bad.png)
 
 # Tightening the Loop
 
-```
------ tune ----------->v (at the bike shop)
-^                      v
-^                      v
-^<-----ride------------- 
-animate this to go from bigger to smaller.
-```
+todo - animate this to go from bigger to smaller.
 
 ???
 
@@ -238,30 +193,9 @@ One way is to make the arrows in the loop shorter.
 In my bike example, it meant eliminating trips to the bike shop or neighbors house.
 
 ---
-
-# Tightening the Loop
-
-```
----A ---- B ----- C -->v 
-^                      v
-^                      v
-^<-- F --- E ---- D ---- 
-animate this to go from more stops to fewer stops.
-```
-
-???
-
-Another way is to eliminate steps.
-
-(maybe ditch this slide)
----
+background-image: url(images/loops/dev-qa.png)
 
 # The Developer-QE feedback loop
-
-```
-^code ----> build ---> deploy ---v
-^<---- changes <---- test <------v
-```
 
 ???
 
