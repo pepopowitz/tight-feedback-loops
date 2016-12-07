@@ -64,7 +64,7 @@ code
   text-align left
   h1
     text-align left
-    
+
 #slideshow 
   .slide 
     .content 
@@ -207,6 +207,7 @@ code
     margin 0
   h2 
     font-size 3em
+    margin 0
   .about
     text-align left
     margin-top 20px
@@ -244,3 +245,41 @@ code
   text-align center
   img 
     height 480px
+
+  .transition
+    p 
+      position relative
+      img 
+        position absolute
+        top 0
+        margin-left auto
+        margin-right auto
+        left 0
+        right 0
+        
+        -webkit-transition opacity 1s ease-in-out
+        -moz-transition opacity 1s ease-in-out
+        -o-transition opacity 1s ease-in-out
+        transition opacity 1s ease-in-out
+
+        animation-timing-function ease-in-out
+        animation-iteration-count 1
+        animation-duration 2s
+        animation-fill-mode forwards
+      
+        &:first-child
+          animation-name fadeOut
+        &:last-child
+          animation-name fadeIn
+      
+@keyframes fadeOut
+  0%
+    opacity 1
+  100%
+    opacity 0
+
+@keyframes fadeIn
+  0%
+    opacity 0
+  100%
+    opacity 1

@@ -203,29 +203,20 @@ class: loop
 
 ![Bad!](images/loops/bike-bad.png)
 
-todo - animate this to go from bigger to smaller.
-
 ???
 
 One way is to make the arrows in the loop shorter.
 
-In my bike example, it meant eliminating trips to the bike shop or neighbors house.
-
 ---
 class: loop
 
-# The Developer-QE feedback loop
+# Tightening the Loop
 
-![Dev-QA Loop](images/loops/dev-qa.png)
+.transition[
+![Bad!](images/loops/bike-bad.png)
+![Best!](images/loops/bike-best.png)
+]
 
 ???
 
-So let's take a look at a feedback loop we experience daily.
-
-This is the loop between developers and QE's.
-
-There are a lot of stops along that loop.
-
-A lot of opportunities for that loop to get bigger, and slower.
-
-Tyler and I want to help you make that loop smaller, instead.
+In my bike example, it meant eliminating trips to the bike shop or neighbors house.

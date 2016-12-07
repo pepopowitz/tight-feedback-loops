@@ -6,6 +6,17 @@ class: loop
 ![Dev-QA Loop](images/loops/dev-qa.png)
 
 ???
+So let's take a look at a feedback loop we experience daily.
+
+This is the loop between developers and QE's.
+
+There are a lot of stops along that loop.
+
+A lot of opportunities for that loop to get bigger, and slower.
+
+Tyler and I want to help you make that loop smaller, instead.
+
+...
 
 Here's our first suggestion.
 
@@ -16,7 +27,10 @@ class: loop
 
 # The Developer-QE feedback loop
 
+.transition[
+![Dev-QA Loop](images/loops/dev-qa.png)
 ![Dev-QA Loop (shortcut)](images/loops/tdd-shortcut.png)
+]
 
 ???
 
@@ -133,6 +147,12 @@ class: title
 # Promotes maintainability
 
 ???
+
+Which leads to better quality
+
+And fewer regression bugs
+
+...
 
 You can still write bad code with TDD
 
