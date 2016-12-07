@@ -25,7 +25,7 @@ background-image: url(images/dojo.jpg)
 ## Continuous Improvement
 
 ---
-class: full-screen-image
+class: full-screen-image, left-align
 background-image: url(images/startrek.png)
 
 # So what is it _really_?
@@ -58,12 +58,13 @@ Example: Intuit running turbotax experiments in production during tax season
 We've made the loop much longer, but we still want it to be fast. Enter automation....
 
 ---
-class: title
-background-image: url(images/loops/devops.png)
+class: title loop
 
-# The DevOps loop
+# The DevOps feedback loop
+
+![DevOps Loop](images/loops/devops.png)
+
 ???
-
 How is this different from before? We've taken away the shortcuts, and added *customers*
 
 ---

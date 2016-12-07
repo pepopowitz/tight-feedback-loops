@@ -5,10 +5,11 @@ class: title
 # Feedback Loops
 
 ---
-background-image: url(images/loops/general.png)
+class: loop
 
 # What is a feedback loop?
 
+![Feedback Loop](images/loops/general.png)
 ???
 Definition: blah blah blah you put an action in, see the effect, and keep doing that.
 
@@ -22,9 +23,11 @@ background-image: url(images/thermostat.jpg)
 The canonical example of a feedback loop is a thermostat.
 
 ---
-background-image: url(images/loops/thermostat.png)
+class: loop
 
 # The Thermostat
+
+![Thermostat](images/loops/thermostat.png)
 
 ???
 
@@ -38,9 +41,11 @@ background-image: url(images/kriskross.jpg)
 
 # Warm It Up Kris
 ---
-background-image: url(images/loops/thermostat.png)
+class: loop
 
 # The Thermostat
+
+![Thermostat](images/loops/thermostat.png)
 
 ???
 
@@ -55,9 +60,11 @@ background-image: url(images/vanilla-ice.jpg)
 # Stop! 
 
 ---
-background-image: url(images/loops/thermostat.png)
+class: loop
 
 # The Thermostat
+
+![Thermostat](images/loops/thermostat.png)
 
 ???
 
@@ -94,9 +101,11 @@ Maybe you don't recognize it by name, but you probably recognize it as the mecha
 that changes the gears on your bike when you click a button on the handlebars.
 
 ---
-background-image: url(images/loops/bike-general.png)
+class: loop
 
 # The bike tuning feedback loop
+
+![Thermostat](images/loops/bike-general.png)
 
 ???
 
@@ -105,9 +114,11 @@ To tune the derailleurs on your bike, there is a feedback loop.
 Simplified, it looks like this. 
  
 ---
-background-image: url(images/loops/bike-really.png)
+class: loop
 
 # The bike tuning feedback loop
+
+![Bike Loop](images/loops/bike-really.png)
 
 ???
 
@@ -116,9 +127,11 @@ A little less simplified, this is the loop.
 You turn a screw a quarter turn, and then you ride the bike 20 feet to see if everything is lined up.
  
 ---
-background-image: url(images/loops/bike-bad.png)
+class: loop
 
 # The bike tuning feedback loop
+
+![Bad](images/loops/bike-bad.png)
 
 ???
 
@@ -133,9 +146,11 @@ And if I get it back and find that it still doesn't shift well, I have to take i
 This is a loose, slow feedback loop.
 
 ---
-background-image: url(images/loops/bike-better.png)
+class: loop
 
 # The bike tuning feedback loop
+
+![Better](images/loops/bike-better.png)
 
 ???
 
@@ -150,9 +165,11 @@ Here, I see the results of each tuning in a much shorter time.
 But I still have to take my bike over to my neighbors house each cycle through the loop. 
 
 ---
-background-image: url(images/loops/bike-best.png)
+class: loop
 
 # The bike tuning feedback loop
+
+![Best!](images/loops/bike-best.png)
 
 ???
 
@@ -180,31 +197,26 @@ The tighter the loop, the quicker the feedback/your ability to react
 There are a couple of ways to do this.
 
 ---
-background-image: url(images/loops/bike-bad.png)
+class: loop
 
 # Tightening the Loop
 
-todo - animate this to go from bigger to smaller.
+![Bad!](images/loops/bike-bad.png)
 
 ???
 
 One way is to make the arrows in the loop shorter.
 
-In my bike example, it meant eliminating trips to the bike shop or neighbors house.
-
 ---
-background-image: url(images/loops/dev-qa.png)
+class: loop
 
-# The Developer-QE feedback loop
+# Tightening the Loop
+
+.transition[
+![Bad!](images/loops/bike-bad.png)
+![Best!](images/loops/bike-best.png)
+]
 
 ???
 
-So let's take a look at a feedback loop we experience daily.
-
-This is the loop between developers and QE's.
-
-There are a lot of stops along that loop.
-
-A lot of opportunities for that loop to get bigger, and slower.
-
-Tyler and I want to help you make that loop smaller, instead.
+In my bike example, it meant eliminating trips to the bike shop or neighbors house.
