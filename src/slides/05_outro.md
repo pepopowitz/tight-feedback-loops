@@ -44,7 +44,11 @@ class: title
 
 ???
 
+Even though we know it's wrong, it still hurts when our code isn't working.
+
 Be gentle with the bug reports!
+
+Also, TDD is hard - you can't just tell them to start doing it. 
 
 ---
 class: title

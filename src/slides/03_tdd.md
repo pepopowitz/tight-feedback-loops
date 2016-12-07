@@ -1,14 +1,14 @@
 ---
 class: loop
 
-# The Developer-QE feedback loop
+# The Developer-QA feedback loop
 
 ![Dev-QA Loop](images/loops/dev-qa.png)
 
 ???
 So let's take a look at a feedback loop we experience daily.
 
-This is the loop between developers and QE's.
+This is the loop between developers and QA.
 
 There are a lot of stops along that loop.
 
@@ -25,7 +25,7 @@ What if we told you there was a shortcut on this loop?
 ---
 class: loop
 
-# The Developer-QE feedback loop
+# The Developer-QA feedback loop
 
 .transition[
 ![Dev-QA Loop](images/loops/dev-qa.png)
@@ -38,16 +38,25 @@ What if we told you there was a way to get changes to the developer,
 
 without having to go through half of this loop?
 
-...
-
-What if you could collaborate with the developer while they are coding?
-
-And we're recommending Test Driven Development to help make it happen.
+Our good friend Rob has some advice for us 
 
 ---
-class: title
+class: full-screen-image, meme
+background-image: url(images/vanilla-ice.jpg)
 
-# Test Driven Development
+# Collaborate! 
+
+???
+
+And Tyler and i have a great way for that to happen.
+
+---
+class: full-screen-image, meme
+background-image: url(images/vanilla-ice.jpg)
+
+# Test Driven Development! 
+
+???
 
 ---
 class: title
@@ -63,6 +72,12 @@ class: title
 class: title
 
 ## How does TDD benefit the developer?
+
+todo - is this too quick into the benefits?
+
+are we missing a step? i.e. "what TDD results in is lots of small, granular tests"
+
+(because that info is useful in the next few slides)
 
 ---
 class: title
@@ -114,7 +129,7 @@ class: title
 
 ???
 
-All of the test cases serve as documentation of the system
+All of the small, granular test cases serve as documentation of the system
 
 ---
 class: title
@@ -163,8 +178,10 @@ But it leads you toward writing better code
 
 
 ---
-# Test Driven Development 
-## Demo
+class: full-screen-image, meme
+background-image: url(images/demo.gif)
+
+# Demo
 
 ???
 

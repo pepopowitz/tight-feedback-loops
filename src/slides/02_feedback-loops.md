@@ -11,7 +11,7 @@ class: loop
 
 ![Feedback Loop](images/loops/general.png)
 ???
-Definition: blah blah blah you put an action in, see the effect, and keep doing that.
+Definition: you make an action, observe the effect, and repeat.
 
 ---
 background-image: url(images/thermostat.jpg)
@@ -40,6 +40,11 @@ class: full-screen-image, meme
 background-image: url(images/kriskross.jpg)
 
 # Warm It Up Kris
+
+???
+
+And the furnace says "I'm about to"
+
 ---
 class: loop
 
@@ -51,13 +56,17 @@ class: loop
 
 The thermostat checks the temperature again, and the loop continues
 
-Until the temperature is at 67 degrees, when it tells the furnace/boiler to stop
+Until the temperature is a perfect 67 degrees, when it tells the furnace/boiler to stop
 
 ---
 class: full-screen-image, meme
 background-image: url(images/vanilla-ice.jpg)
 
 # Stop! 
+
+???
+
+And the furnace says "Collaborate and listen".
 
 ---
 class: loop
@@ -67,6 +76,8 @@ class: loop
 ![Thermostat](images/loops/thermostat.png)
 
 ???
+
+And so this cycle continues until April
 
 ...
 
@@ -83,14 +94,12 @@ I am a bike guy.
 When your bike starts clicking when you pedal, it often means you need to adjust your derailleurs.
 
 ---
+class: loop
+
 # The bike tuning feedback loop
 
-.col.col-2[
-]
 
-.col.col-6.img-full[
 ![derailleur](images/derailleur.jpg)
-]
 
 ???
 
