@@ -20,21 +20,21 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <TextBox Name="ResultsTextBox" IsEnabled="False" FontSize="30" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" />
-        <Button Content="1" Grid.Row="1" Grid.Column="0" Click="AddNumber"/>
-        <Button Content="2" Grid.Row="1" Grid.Column="1" Click="AddNumber"/>
-        <Button Content="3" Grid.Row="1" Grid.Column="2" Click="AddNumber"/>
-        <Button Content="4" Grid.Row="2" Grid.Column="0" Click="AddNumber"/>
-        <Button Content="5" Grid.Row="2" Grid.Column="1" Click="AddNumber"/>
-        <Button Content="6" Grid.Row="2" Grid.Column="2" Click="AddNumber"/>
-        <Button Content="7" Grid.Row="3" Grid.Column="0" Click="AddNumber"/>
-        <Button Content="8" Grid.Row="3" Grid.Column="1" Click="AddNumber"/>
-        <Button Content="9" Grid.Row="3" Grid.Column="2" Click="AddNumber"/>
-        <Button Content="0" Grid.Row="4" Grid.Column="1" Click="AddNumber"/>
-        <Button Content="." Grid.Row="4" Grid.Column="0" Click="AddNumber"/>
-        <Button Content="Clear" Grid.Row="4" Grid.Column="2" Click="Clear"/>
-        <Button Content="+" Grid.Row="1" Grid.Column="3" Click="AddOperator"/>
-        <Button Content="-" Grid.Row="2" Grid.Column="3" Click="AddOperator"/>
-        <Button Content="x" Grid.Row="3" Grid.Column="3" Click="AddOperator"/>
-        <Button Content="÷" Grid.Row="4" Grid.Column="3" Click="AddOperator"/>
+        <Button Content="1" Grid.Row="1" Grid.Column="0" FontSize="30" Click="AddNumber"/>
+        <Button Content="2" Grid.Row="1" Grid.Column="1" FontSize="30" Click="AddNumber"/>
+        <Button Content="3" Grid.Row="1" Grid.Column="2" FontSize="30" Click="AddNumber"/>
+        <Button Content="4" Grid.Row="2" Grid.Column="0" FontSize="30" Click="AddNumber"/>
+        <Button Content="5" Grid.Row="2" Grid.Column="1" FontSize="30" Click="AddNumber"/>
+        <Button Content="6" Grid.Row="2" Grid.Column="2" FontSize="30" Click="AddNumber"/>
+        <Button Content="7" Grid.Row="3" Grid.Column="0" FontSize="30" Click="AddNumber"/>
+        <Button Content="8" Grid.Row="3" Grid.Column="1" FontSize="30" Click="AddNumber"/>
+        <Button Content="9" Grid.Row="3" Grid.Column="2" FontSize="30" Click="AddNumber"/>
+        <Button Content="0" Grid.Row="4" Grid.Column="1" FontSize="30" Click="AddNumber"/>
+        <Button Content="." Grid.Row="4" Grid.Column="0" FontSize="30" Click="AddNumber"/>
+        <Button Content="C" Grid.Row="4" Grid.Column="2" FontSize="30" Click="Clear"/>
+        <Button Content="+" Grid.Row="1" Grid.Column="3" FontSize="30" Click="AddOperator"/>
+        <Button Content="-" Grid.Row="2" Grid.Column="3" FontSize="30" Click="AddOperator"/>
+        <Button Content="x" Grid.Row="3" Grid.Column="3" FontSize="30" Click="AddOperator"/>
+        <Button Content="÷" Grid.Row="4" Grid.Column="3" FontSize="30" Click="AddOperator"/>
     </Grid>
 </Window>
