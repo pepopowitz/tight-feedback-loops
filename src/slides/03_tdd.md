@@ -73,12 +73,6 @@ class: title
 
 ## How does TDD benefit the developer?
 
-todo - is this too quick into the benefits?
-
-are we missing a step? i.e. "what TDD results in is lots of small, granular tests"
-
-(because that info is useful in the next few slides)
-
 ---
 class: title
 

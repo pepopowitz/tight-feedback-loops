@@ -4,7 +4,7 @@ using System.Runtime.Serialization;
 namespace Calculator
 {
     [Serializable]
-    internal class MathException : Exception
+    public class MathException : Exception
     {
         public MathException()
         {
