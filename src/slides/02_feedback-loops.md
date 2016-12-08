@@ -135,22 +135,8 @@ steve
 
 To tune the derailleurs on your bike, there is a feedback loop.
 
-Simplified, it looks like this. 
- 
----
-class: loop
-
-# The bike tuning feedback loop
-
-![Bike Loop](images/loops/bike-really.png)
-
-???
-steve
-
-A little less simplified, this is the loop. 
-
 You turn a screw a quarter turn, and then you ride the bike 20 feet to see if everything is lined up.
- 
+  
 ---
 class: loop
 

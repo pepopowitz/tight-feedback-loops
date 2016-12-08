@@ -6,7 +6,7 @@ class: loop
 ![Dev-QA Loop](images/loops/dev-qa.png)
 
 ???
-Tyler
+Tyler? steve?
 
 So let's take a look at a feedback loop we experience daily.
 
@@ -35,7 +35,7 @@ class: loop
 ]
 
 ???
-Tyler
+Tyler? steve?
 
 What if we told you there was a way to get changes to the developer,
 
