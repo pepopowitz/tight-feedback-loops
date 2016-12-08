@@ -6,17 +6,12 @@ namespace Calculator
     {
         public double Add(double firstOperand, double secondOperand)
         {
-            return firstOperand + secondOperand;
+            throw new NotImplementedException();
         }
 
         public double Divide(double firstOperand, double secondOperand)
         {
-            if (secondOperand == 0)
-            {
-                throw new MathException();
-            }
-
-            return firstOperand / secondOperand;
+            throw new NotImplementedException();
         }
 
         public double Multiply(double firstOperand, double secondOperand)
