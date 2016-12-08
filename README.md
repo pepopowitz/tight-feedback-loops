@@ -1,10 +1,16 @@
 # Tight Feedback Loops With TDD and DevOps
 
-This is a talk built with [remark](https://github.com/gnab/remark) on tightening feedback loops with TDD and DevOps.
+A talk on tightening feedback loops with TDD and DevOps.
+
+## Looking for the slide deck?
+
+[It's right here!](http://tight-feedback-loops.netlify.com/) 
+
+Use your left and right arrow keys to move through the slides.
+
+## Development
 
 [Docs on remark are here](https://github.com/gnab/remark/wiki).
-
-## Getting Started
 
 ### Installation
 
