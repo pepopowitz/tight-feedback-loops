@@ -81,11 +81,6 @@ Bring this to your boss/PM/PO
 talk about the potential gains in investing someone's time
 
 ---
-# Resources
-
-## TODO Links to free CI things
-
----
 
 class: title
 
