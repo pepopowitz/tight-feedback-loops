@@ -4,6 +4,10 @@ class: title
 
 # Feedback Loops
 
+???
+
+tyler
+
 ---
 class: loop
 
@@ -11,6 +15,8 @@ class: loop
 
 ![Feedback Loop](images/loops/general.png)
 ???
+tyler
+
 Definition: you make an action, observe the effect, and repeat.
 
 ---
@@ -19,6 +25,7 @@ background-image: url(images/thermostat.jpg)
 # The Thermostat
 
 ???
+steve
 
 The canonical example of a feedback loop is a thermostat.
 
@@ -30,6 +37,7 @@ class: loop
 ![Thermostat](images/loops/thermostat.png)
 
 ???
+steve
 
 The thermostat checks the room temperature.
 
@@ -42,6 +50,7 @@ background-image: url(images/kriskross.jpg)
 # Warm It Up Kris
 
 ???
+steve
 
 And the furnace says "I'm about to"
 
@@ -53,6 +62,7 @@ class: loop
 ![Thermostat](images/loops/thermostat.png)
 
 ???
+steve
 
 The thermostat checks the temperature again, and the loop continues
 
@@ -65,6 +75,7 @@ background-image: url(images/vanilla-ice.jpg)
 # Stop! 
 
 ???
+steve
 
 And the furnace says "Collaborate and listen".
 
@@ -76,6 +87,7 @@ class: loop
 ![Thermostat](images/loops/thermostat.png)
 
 ???
+steve
 
 And so this cycle continues until April
 
@@ -88,6 +100,7 @@ class: title
 # The bike-tuning feedback loop
 
 ???
+steve
 
 I am a bike guy. 
 
@@ -102,6 +115,7 @@ class: loop
 ![derailleur](images/derailleur.jpg)
 
 ???
+steve
 
 And this is a derailleur. 
 
@@ -117,6 +131,7 @@ class: loop
 ![Thermostat](images/loops/bike-general.png)
 
 ???
+steve
 
 To tune the derailleurs on your bike, there is a feedback loop.
 
@@ -130,6 +145,7 @@ class: loop
 ![Bike Loop](images/loops/bike-really.png)
 
 ???
+steve
 
 A little less simplified, this is the loop. 
 
@@ -143,6 +159,7 @@ class: loop
 ![Bad](images/loops/bike-bad.png)
 
 ???
+steve
 
 Bad
 
@@ -162,6 +179,7 @@ class: loop
 ![Better](images/loops/bike-better.png)
 
 ???
+steve
 
 Better
 
@@ -181,6 +199,7 @@ class: loop
 ![Best!](images/loops/bike-best.png)
 
 ???
+steve
 
 Best!
 
@@ -200,6 +219,7 @@ class: title
 # By tightening the loop.
 
 ???
+steve
 
 The tighter the loop, the quicker the feedback/your ability to react
 
@@ -213,6 +233,7 @@ class: loop
 ![Bad!](images/loops/bike-bad.png)
 
 ???
+steve
 
 One way is to make the arrows in the loop shorter.
 
@@ -227,5 +248,6 @@ class: loop
 ]
 
 ???
+steve
 
 In my bike example, it meant eliminating trips to the bike shop or neighbors house.

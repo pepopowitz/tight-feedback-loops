@@ -25,6 +25,9 @@ class: title
 ### <i class="el el-envelope"></i>  tyler.evert@centare.com
 ]
 
+???
+steve
+
 ---
 class: middle
 
@@ -41,6 +44,9 @@ class: middle
 .col.col-6[
 ![Me](images/steve.png)
 ]
+
+???
+steve
 
 ---
 class: middle
@@ -59,3 +65,5 @@ class: middle
 ## Does the DevOps 
 ]
 
+???
+tyler
