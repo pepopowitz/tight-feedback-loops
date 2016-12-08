@@ -7,7 +7,7 @@ background-image: url(images/dilbert.jpg)
 Tyler
 
 ---
-class: full-screen-image
+class: full-screen-image left
 background-image: url(images/assemblyline.jpg)
 # What is it?
 
@@ -17,7 +17,7 @@ background-image: url(images/assemblyline.jpg)
 Tyler
 
 ---
-class: full-screen-image light
+class: full-screen-image light left
 background-image: url(images/Op-Amp.png)
 # What is it?
 
@@ -27,7 +27,7 @@ background-image: url(images/Op-Amp.png)
 Tyler
 
 ---
-class: full-screen-image
+class: full-screen-image left
 background-image: url(images/dojo.jpg)
 # What is it?
 
