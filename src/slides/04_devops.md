@@ -29,7 +29,7 @@ Tyler
 ---
 class: full-screen-image
 background-image: url(images/dojo.jpg)
-# What is it? 
+# What is it?
 
 ## Continuous Improvement
 
@@ -62,6 +62,8 @@ class: title
 
 ???
 steve
+They are instead done in small batches, easy to handle, less change shocking the system.
+Also forces you to do them routinely, which forces you to streamline the process, which in turns means not doing them at midnight on Christmas.
 
 ---
 class: title
@@ -69,6 +71,8 @@ class: title
 
 ???
 steve
+Example: turbotax running experiments during tax season.
+Throw a thousand good/bad/ugly ideas and scientifically find the million-dollar ones.
 
 ---
 class: title
@@ -78,8 +82,8 @@ class: title
 ???
 steve
 
-Example: Intuit running turbotax experiments in production during tax season
-We've made the loop much longer, but we still want it to be fast. Enter automation....
+The users are the ones who actually buy our products, so _they_ get to truly say what is high-quality.
+Prove that by getting feedback from them, not just from others in our company.
 
 ---
 class: title loop
