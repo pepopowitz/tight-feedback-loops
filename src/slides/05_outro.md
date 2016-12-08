@@ -108,7 +108,7 @@ talk about the potential gains in investing someone's time
 class: title
 
 # Thank you!
-
+## http://bit.ly/tight-feedback-loops
 
 .col.col-1[
 ]

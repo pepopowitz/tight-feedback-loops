@@ -8,14 +8,19 @@ namespace Calculator
             double firstOperand, 
             double secondOperand)
         {
-            throw new NotImplementedException();
+            return firstOperand + secondOperand;
         }
 
         public double Divide(
             double firstOperand, 
             double secondOperand)
         {
-            throw new NotImplementedException();
+            if (secondOperand == 0)
+            {
+                throw new MathException();
+            }
+
+            return firstOperand / secondOperand;
         }
 
         public double Multiply(
